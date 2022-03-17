@@ -9,3 +9,4 @@ gem "sinatra"
 gem 'capybara'
 gem 'puma'
 gem 'rspec_junit_formatter'
+gem 'nokogiri'
